@@ -7,6 +7,8 @@ LIST='maimai_Dev_test'
 
 NOTES='配布テスト！！！'
 
+pwd
+
 scriptPath=$1
 cd scriptPath
 provisionPath=$(ls *.mobileprovision)
