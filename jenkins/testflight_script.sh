@@ -10,7 +10,7 @@ NOTES='配布テスト！！！'
 pwd
 
 scriptPath=$1
-cd scriptPath
+#cd scriptPath
 provisionPath=$(ls *.mobileprovision)
 
 buildPath=$1/build
