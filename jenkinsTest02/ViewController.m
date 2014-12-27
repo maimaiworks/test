@@ -20,7 +20,7 @@
 	
 	UILabel* label = [UILabel new];
 	label.frame = self.view.bounds;
-	label.text = @"JenkinsTest";
+	label.text = @"JenkinsTest!!!";
 	label.textAlignment = NSTextAlignmentCenter;
 	label.font = [UIFont systemFontOfSize:32];
 	label.textColor = [UIColor yellowColor];
