@@ -7,7 +7,7 @@ LIST='maimai_Dev_test'
 
 NOTES='配布テスト！！！'
 
-scriptPath=$1/jenkins
+scriptPath=$1
 cd scriptPath
 provisionPath=$(ls *.mobileprovision)
 

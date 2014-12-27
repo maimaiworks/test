@@ -78,6 +78,7 @@
 		8D2D84131A4E7A9C00B82E73 = {
 			isa = PBXGroup;
 			children = (
+				8D2D84451A4EA8E000B82E73 /* ibcn.mobileprovision */,
 				8D2D84461A4EA8EC00B82E73 /* jenkins */,
 				8D2D841E1A4E7A9C00B82E73 /* jenkinsTest02 */,
 				8D2D84381A4E7A9C00B82E73 /* jenkinsTest02Tests */,
@@ -140,7 +141,6 @@
 		8D2D84461A4EA8EC00B82E73 /* jenkins */ = {
 			isa = PBXGroup;
 			children = (
-				8D2D84451A4EA8E000B82E73 /* ibcn.mobileprovision */,
 				8D2D84471A4EA8EC00B82E73 /* testflight_script.sh */,
 			);
 			path = jenkins;
